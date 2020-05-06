@@ -1,5 +1,7 @@
 .header {
     color : rgba(255, 255, 255, 1);
+    height: 60px;
+    
 }
 #icons-left {
     text-align: center;
